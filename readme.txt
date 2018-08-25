@@ -5,4 +5,4 @@ Git tracks change.
 --
 Git push success!
 Creating a new branch is quick & simple.
-checkout for !
+Git is a free software...
